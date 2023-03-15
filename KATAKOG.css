@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    background: #FDCB6B;
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 1.6;
+    font-size: 40px;
+    color: #fff;
+
+}
+*, 
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+
+
+.nav-list {
+    font-size: 15.71px;
+    
+}
+.nav-list li {
+    margin-bottom: 47px;
+    
+}
+.nav-list a {
+    color: black;
+    
+}
+.btn:hover {
+    background-color: #78BFDD;
+    color: #fff;
+
+}
+.btn {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+}
